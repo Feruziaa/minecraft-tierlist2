@@ -1,0 +1,2 @@
+// Placeholder content
+"# minecraft-tierlist" 
